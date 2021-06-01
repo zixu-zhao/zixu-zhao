@@ -1,11 +1,8 @@
 ### Hi there 👋. My name is Zixu Zhao and I am a software engineer.
 
 <br>
-<br>
 
-#### 📊 Coding Analytics:
-
-<br>
+#### 📊 Analytics:
 
 <img src="https://wakatime.com/share/@Mint/bbce320c-9671-4ed7-86f5-c2d8a0c98cb2.svg">
 
