@@ -2,7 +2,7 @@
 
 <br>
 
-#### 📊 Analytics:
+#### 📊 Real-time Analytics:
 
 <img src="https://wakatime.com/share/@Mint/bbce320c-9671-4ed7-86f5-c2d8a0c98cb2.svg">
 
