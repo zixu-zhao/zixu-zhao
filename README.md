@@ -1,4 +1,4 @@
-### Hi there 👋. My name is Zixu Zhao and I am a software engineer.
+### Hi there 👋. My name is Zixu Zhao and I am a senior software engineer.
 
 <br>
 
