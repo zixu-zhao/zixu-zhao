@@ -4,9 +4,7 @@
 
 #### 📊 Real-time Analytics:
 
-<div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Total%20Coding%20Hours&query=%24.data.grand_total.human_readable_total_including_other_language&url=https%3A%2F%2Fwakatime.com%2Fshare%2F%40Mint%2Fd32a9adb-faf5-439c-b2e3-56465cdaba6d.json">
-</div>
+[![wakatime](https://wakatime.com/badge/user/6140acd7-1df9-4b5b-9044-9c57e5eb9c4a.svg)](https://wakatime.com/@6140acd7-1df9-4b5b-9044-9c57e5eb9c4a)
 
 <br>
 
