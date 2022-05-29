@@ -2,8 +2,6 @@
 
 <br>
 
-#### 📊 Real-time Analytics:
-
 [![wakatime](https://wakatime.com/badge/user/6140acd7-1df9-4b5b-9044-9c57e5eb9c4a.svg)](https://wakatime.com/@6140acd7-1df9-4b5b-9044-9c57e5eb9c4a)
 
 <br>
